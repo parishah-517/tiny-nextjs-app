@@ -10,6 +10,9 @@ export default async function Home() {
       <div>
         Hello. Your tiny NextJS app is up and running :)
       </div>
+      <div>
+        Hello world
+      </div>
     </main>
   );
 }
